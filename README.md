@@ -5,8 +5,7 @@ Situs web ini dibuat untuk memenuhi tugas pemrograman web dan integrasi API.
 
 🌐 Demo
 Silakan klik tautan di bawah ini untuk menuju situs web:
-👉 https://github.com/trivera03/Data-Cuaca.git
-
+👉 https://trivera03.github.io/Data-Cuaca/
 🔧 Teknologi yang Digunakan
 HTML
 CSS
