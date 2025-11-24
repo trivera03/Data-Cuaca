@@ -3,15 +3,15 @@ Proyek ini adalah klien REST dasar yang menggunakan HTML, CSS, dan JavaScript un
 
 Situs web ini dibuat untuk memenuhi tugas pemrograman web dan integrasi API.
 
-🌐 Demo
-Silakan klik tautan di bawah ini untuk menuju situs web:
-👉 https://trivera03.github.io/Data-Cuaca/
-🔧 Teknologi yang Digunakan
-HTML
-CSS
-JavaScript (Fetch API)
-OpenWeatherMap API
-GitHub Pages
+🌐 Demo  <br>
+Silakan klik tautan di bawah ini untuk menuju situs web: <br>
+👉 https://trivera03.github.io/Data-Cuaca/ <br>
+🔧 Teknologi yang Digunakan  <br>
+HTML  <br>
+CSS  <br>
+JavaScript (Fetch API)  <br>
+OpenWeatherMap API  <br>
+GitHub Pages  
 
 📌 Cara Penggunaan
 Buka situs web.
@@ -31,9 +31,9 @@ https://api.openweathermap.org/data/2.5/weather?q=%7Bcity%7D&units=metric&lang=i
 
 Penjelasan:
 
-{city} → nama kota
-units=metric → suhu dalam °C
-lang=id → Bahasa Indonesia
+{city} → nama kota <br>
+units=metric → suhu dalam °C <br>
+lang=id → Bahasa Indonesia <br>
 {APIKEY} → kunci API Anda
 
 📁 Struktur Folder
