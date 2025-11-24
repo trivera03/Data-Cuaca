@@ -31,9 +31,9 @@ https://api.openweathermap.org/data/2.5/weather?q=%7Bcity%7D&units=metric&lang=i
 
 Penjelasan:
 
-{city} → nama kota
-units=metric → suhu dalam °C
-lang=id → Bahasa Indonesia
+{city} → nama kota <br>
+units=metric → suhu dalam °C <br>
+lang=id → Bahasa Indonesia <br>
 {APIKEY} → kunci API Anda
 
 📁 Struktur Folder
