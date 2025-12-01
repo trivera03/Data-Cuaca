@@ -14,15 +14,15 @@ OpenWeatherMap API
 GitHub Pages
 
 📌 Cara Penggunaan
-Buka situs web.
-Ketik nama kota (misalnya: Jakarta, Surabaya, Tokyo).
-Klik tombol Cari Cuaca.
-Bahasa Indonesia: Informasi cuaca kemudian akan ditampilkan:
-Nama kota dan negara
-Suhu (°C)
-Tingkat kelembapan
-Deskripsi cuaca
-Ikon cuaca
+Buka situs web. <br>
+Ketik nama kota (misalnya: Jakarta, Surabaya, Tokyo). <br>
+Klik tombol Cari Cuaca. <br>
+Bahasa Indonesia: Informasi cuaca kemudian akan ditampilkan: <br>
+Nama kota dan negara <br>
+Suhu (°C) <br>
+Tingkat kelembapan <br>
+Deskripsi cuaca <br>
+Ikon cuaca <br>
 
 📡 Titik Akhir API
 Data cuaca diambil dari titik akhir berikut:
